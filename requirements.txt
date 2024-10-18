@@ -1,0 +1,4 @@
+scapy
+openai
+argparse
+pyshark
